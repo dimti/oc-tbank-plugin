@@ -1,0 +1,6 @@
+plugin:
+    name: 'wpstudio.tbank::lang.plugin.name'
+    description: 'wpstudio.tbank::lang.plugin.description'
+    author: WP Studio, Alexander Demidov, info@wpstudio.ru
+    icon: oc-icon-credit-card
+    homepage: ''

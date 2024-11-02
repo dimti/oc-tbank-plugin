@@ -1,0 +1,21 @@
+{
+    "name": "wpstudio/oc-tbank-plugin",
+    "type": "october-plugin",
+    "description": "TBank payment gateway for offline.mall",
+    "require": {
+        "dimti/omnipay-tbank": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "WP Studio Team",
+            "email": "info@wpstudio.ru"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dimti/omnipay-tbank.git"
+        }
+    ],
+    "minimum-stability": "dev"
+}
